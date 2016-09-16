@@ -23,11 +23,92 @@
 	<glyph unicode="16A0" name="fehu-runic" sortName="runes001" category="Letter" script="runic" production="uni16A0" description="RUNIC LETTER FEHU" />
 	<glyph unicode="16A1" name="v-runic" sortName="runes002" category="Letter" script="runic" production="uni16A1" description="RUNIC LETTER V" />
 	<glyph unicode="16A2" name="uruz-runic" sortName="runes003" category="Letter" script="runic" production="uni16A2" description="RUNIC LETTER URUZ" />
-
-	<glyph unicode="16EB" name="punctSingle-runic" sortName="runes101" category="Punctuation" script="runic" production="uni16EB" description="RUNIC LETTER PUNCTSINGLE" />
-	<glyph unicode="16EC" name="punctMultiple-runic" sortName="runes102" category="Punctuation" script="runic" production="uni16EC" description="RUNIC LETTER PUNCTMULTIPLE" />
-
-	<glyph unicode="16EE" name="arlaug-runic" sortName="runes201" category="Symbols" script="runic" production="uni16EE" description="RUNIC LETTER ARLAUG" />
-	<glyph unicode="16EF" name="tvimadur-runic" sortName="runes202" category="Symbols" script="runic" production="uni16EF" description="RUNIC LETTER TVIMADUR" />
-
+	<glyph unicode="16A3" name="yr-runic" sortName="runes004" category="Letter" script="runic" production="uni16A3" description="RUNIC LETTER YR" />
+	<glyph unicode="16A4" name="y-runic" sortName="runes005" category="Letter" script="runic" production="uni16A4" description="RUNIC LETTER Y" />
+	<glyph unicode="16A5" name="w-runic" sortName="runes006" category="Letter" script="runic" production="uni16A5" description="RUNIC LETTER W" />
+	<glyph unicode="16A6" name="thurisazThursThorn-runic" sortName="runes007" category="Letter" script="runic" production="uni16A6" description="RUNIC LETTER THURISAZ THURS THORN" />
+	<glyph unicode="16A7" name="eth-runic" sortName="runes008" category="Letter" script="runic" production="uni16A7" description="RUNIC LETTER ETH" />
+	<glyph unicode="16A8" name="ansuzA-runic" sortName="runes009" category="Letter" script="runic" production="uni16A8" description="RUNIC LETTER ANSUZ A" />
+	<glyph unicode="16A9" name="osO-runic" sortName="runes010" category="Letter" script="runic" production="uni16A9" description="RUNIC LETTER OS O" />
+	<glyph unicode="16AA" name="acA-runic" sortName="runes011" category="Letter" script="runic" production="uni16AA" description="RUNIC LETTER AC A" />
+	<glyph unicode="16AB" name="aesc-runic" sortName="runes012" category="Letter" script="runic" production="uni16AB" description="RUNIC LETTER AESC" />
+	<glyph unicode="16AC" name="ossOLongBranch-runic" sortName="runes013" category="Letter" script="runic" production="uni16AC" description="RUNIC LETTER LONG-BRANCH-OSS O" />
+	<glyph unicode="16AD" name="ossOShortTwig-runic" sortName="runes014" category="Letter" script="runic" production="uni16AD" description="RUNIC LETTER SHORT-TWIG-OSS O" />
+	<glyph unicode="16AE" name="o-runic" sortName="runes015" category="Letter" script="runic" production="uni16AE" description="RUNIC LETTER O" />
+	<glyph unicode="16AF" name="oe-runic" sortName="runes016" category="Letter" script="runic" production="uni16AF" description="RUNIC LETTER OE" />
+	<glyph unicode="16B0" name="on-runic" sortName="runes017" category="Letter" script="runic" production="uni16B0" description="RUNIC LETTER ON" />
+	<glyph unicode="16B1" name="raidoRadReidR-runic" sortName="runes018" category="Letter" script="runic" production="uni16B1" description="RUNIC LETTER RAIDO RAD REID R" />
+	<glyph unicode="16B2" name="kauna-runic" sortName="runes019" category="Letter" script="runic" production="uni16B2" description="RUNIC LETTER KAUNA" />
+	<glyph unicode="16B3" name="cen-runic" sortName="runes020" category="Letter" script="runic" production="uni16B3" description="RUNIC LETTER CEN" />
+	<glyph unicode="16B4" name="kaunK-runic" sortName="runes021" category="Letter" script="runic" production="uni16B4" description="RUNIC LETTER KAUN K" />
+	<glyph unicode="16B5" name="g-runic" sortName="runes022" category="Letter" script="runic" production="uni16B5" description="RUNIC LETTER G" />
+	<glyph unicode="16B6" name="eng-runic" sortName="runes023" category="Letter" script="runic" production="uni16B6" description="RUNIC LETTER ENG" />
+	<glyph unicode="16B7" name="geboGyfuG-runic" sortName="runes024" category="Letter" script="runic" production="uni16B7" description="RUNIC LETTER GEBO GYFU G" />
+	<glyph unicode="16B8" name="gar-runic" sortName="runes025" category="Letter" script="runic" production="uni16B8" description="RUNIC LETTER GAR" />
+	<glyph unicode="16B9" name="wunjoWynnW-runic" sortName="runes026" category="Letter" script="runic" production="uni16B9" description="RUNIC LETTER WUNJO WYNN W" />
+	<glyph unicode="16BA" name="haglazH-runic" sortName="runes027" category="Letter" script="runic" production="uni16BA" description="RUNIC LETTER HAGLAZ H" />
+	<glyph unicode="16BB" name="haeglH-runic" sortName="runes028" category="Letter" script="runic" production="uni16BB" description="RUNIC LETTER HAEGL H" />
+	<glyph unicode="16BC" name="hagallHLongBranch-runic" sortName="runes029" category="Letter" script="runic" production="uni16BC" description="RUNIC LETTER LONG-BRANCH-HAGALL H" />
+	<glyph unicode="16BD" name="hagallHShortTwig-runic" sortName="runes030" category="Letter" script="runic" production="uni16BD" description="RUNIC LETTER SHORT-TWIG-HAGALL H" />
+	<glyph unicode="16BE" name="naudNNaudizNyd-runic" sortName="runes031" category="Letter" script="runic" production="uni16BE" description="RUNIC LETTER NAUDIZ NYD NAUD N" />
+	<glyph unicode="16BF" name="naudNShortTwig-runic" sortName="runes032" category="Letter" script="runic" production="uni16BF" description="RUNIC LETTER SHORT-TWIG-NAUD N" />
+	<glyph unicode="16C0" name="nDotted-runic" sortName="runes033" category="Letter" script="runic" production="uni16C0" description="RUNIC LETTER DOTTED-N" />
+	<glyph unicode="16C1" name="isazIsIssI-runic" sortName="runes034" category="Letter" script="runic" production="uni16C1" description="RUNIC LETTER ISAZ IS ISS I" />
+	<glyph unicode="16C2" name="e-runic" sortName="runes035" category="Letter" script="runic" production="uni16C2" description="RUNIC LETTER E" />
+	<glyph unicode="16C3" name="jeranJ-runic" sortName="runes036" category="Letter" script="runic" production="uni16C3" description="RUNIC LETTER JERAN J" />
+	<glyph unicode="16C4" name="ger-runic" sortName="runes037" category="Letter" script="runic" production="uni16C4" description="RUNIC LETTER GER" />
+	<glyph unicode="16C5" name="aeLongBranchAr-runic" sortName="runes038" category="Letter" script="runic" production="uni16C5" description="RUNIC LETTER LONG-BRANCH-AR AE" />
+	<glyph unicode="16C6" name="aShortTwigAr-runic" sortName="runes039" category="Letter" script="runic" production="uni16C6" description="RUNIC LETTER SHORT-TWIG-AR A" />
+	<glyph unicode="16C7" name="iwazEoh-runic" sortName="runes040" category="Letter" script="runic" production="uni16C7" description="RUNIC LETTER IWAZ EOH" />
+	<glyph unicode="16C8" name="perthoPeorthP-runic" sortName="runes041" category="Letter" script="runic" production="uni16C8" description="RUNIC LETTER PERTHO PEORTH P" />
+	<glyph unicode="16C9" name="algizEolhx-runic" sortName="runes042" category="Letter" script="runic" production="uni16C9" description="RUNIC LETTER ALGIZ EOLHX" />
+	<glyph unicode="16CA" name="sowiloS-runic" sortName="runes043" category="Letter" script="runic" production="uni16CA" description="RUNIC LETTER SOWILO S" />
+	<glyph unicode="16CB" name="sigelLongBranchSol-runic" sortName="runes044" category="Letter" script="runic" production="uni16CB" description="RUNIC LETTER SIGEL LONG-BRANCH-SOL S" />
+	<glyph unicode="16CC" name="sShortTwigSol-runic" sortName="runes045" category="Letter" script="runic" production="uni16CC" description="RUNIC LETTER SHORT-TWIG-SOL S" />
+	<glyph unicode="16CD" name="c-runic" sortName="runes046" category="Letter" script="runic" production="uni16CD" description="RUNIC LETTER C" />
+	<glyph unicode="16CE" name="z-runic" sortName="runes047" category="Letter" script="runic" production="uni16CE" description="RUNIC LETTER Z" />
+	<glyph unicode="16CF" name="tiwazTirTyr-runic" sortName="runes048" category="Letter" script="runic" production="uni16CF" description="RUNIC LETTER TIWAZ TIR TYR T" />
+	<glyph unicode="16D0" name="tShortTwigTyr-runic" sortName="runes049" category="Letter" script="runic" production="uni16D0" description="RUNIC LETTER SHORT-TWIG-TYR T" />
+	<glyph unicode="16D1" name="d-runic" sortName="runes050" category="Letter" script="runic" production="uni16D1" description="RUNIC LETTER D" />
+	<glyph unicode="16D2" name="berkananBeorcBjarkanB-runic" sortName="runes051" category="Letter" script="runic" production="uni16D2" description="RUNIC LETTER BERKANAN BEORC BJARKAN B" />
+	<glyph unicode="16D3" name="bjarkanBshortTwig-runic" sortName="runes052" category="Letter" script="runic" production="uni16D3" description="RUNIC LETTER SHORT-TWIG-BJARKAN B" />
+	<glyph unicode="16D4" name="pDotted-runic" sortName="runes053" category="Letter" script="runic" production="uni16D4" description="RUNIC LETTER DOTTED-P" />
+	<glyph unicode="16D5" name="pOpen-runic" sortName="runes054" category="Letter" script="runic" production="uni16D5" description="RUNIC LETTER OPEN-P" />
+	<glyph unicode="16D6" name="ehwazEhE-runic" sortName="runes055" category="Letter" script="runic" production="uni16D6" description="RUNIC LETTER EHWAZ EH E" />
+	<glyph unicode="16D7" name="mannazManM-runic" sortName="runes056" category="Letter" script="runic" production="uni16D7" description="RUNIC LETTER MANNAZ MAN M" />
+	<glyph unicode="16D8" name="mLongBranchMadr-runic" sortName="runes057" category="Letter" script="runic" production="uni16D8" description="RUNIC LETTER LONG-BRANCH-MADR M" />
+	<glyph unicode="16D9" name="mShortTwigMadr-runic" sortName="runes058" category="Letter" script="runic" production="uni16D9" description="RUNIC LETTER SHORT-TWIG-MADR M" />
+	<glyph unicode="16DA" name="laukazLaguLogrL-runic" sortName="runes059" category="Letter" script="runic" production="uni16DA" description="RUNIC LETTER LAUKAZ LAGU LOGR L" />
+	<glyph unicode="16DB" name="lDotted-runic" sortName="runes060" category="Letter" script="runic" production="uni16DB" description="RUNIC LETTER DOTTED-L" />
+	<glyph unicode="16DC" name="ingwaz-runic" sortName="runes061" category="Letter" script="runic" production="uni16DC" description="RUNIC LETTER INGWAZ" />
+	<glyph unicode="16DD" name="ing-runic" sortName="runes062" category="Letter" script="runic" production="uni16DD" description="RUNIC LETTER ING" />
+	<glyph unicode="16DE" name="dagazDaegD-runic" sortName="runes063" category="Letter" script="runic" production="uni16DE" description="RUNIC LETTER DAGAZ DAEG D" />
+	<glyph unicode="16DF" name="othalanEthelO-runic" sortName="runes064" category="Letter" script="runic" production="uni16DF" description="RUNIC LETTER OTHALAN ETHEL O" />
+	<glyph unicode="16E0" name="ear-runic" sortName="runes065" category="Letter" script="runic" production="uni16E0" description="RUNIC LETTER EAR" />
+	<glyph unicode="16E1" name="ior-runic" sortName="runes066" category="Letter" script="runic" production="uni16E1" description="RUNIC LETTER IOR" />
+	<glyph unicode="16E2" name="cweorth-runic" sortName="runes067" category="Letter" script="runic" production="uni16E2" description="RUNIC LETTER CWEORTH" />
+	<glyph unicode="16E3" name="calc-runic" sortName="runes068" category="Letter" script="runic" production="uni16E3" description="RUNIC LETTER CALC" />
+	<glyph unicode="16E4" name="cealc-runic" sortName="runes069" category="Letter" script="runic" production="uni16E4" description="RUNIC LETTER CEALC" />
+	<glyph unicode="16E5" name="stan-runic" sortName="runes070" category="Letter" script="runic" production="uni16E5" description="RUNIC LETTER STAN" />
+	<glyph unicode="16E6" name="yrLongBranch-runic" sortName="runes071" category="Letter" script="runic" production="uni16E6" description="RUNIC LETTER LONG-BRANCH-YR" />
+	<glyph unicode="16E7" name="yrShortTwig-runic" sortName="runes072" category="Letter" script="runic" production="uni16E7" description="RUNIC LETTER SHORT-TWIG-YR" />
+	<glyph unicode="16E8" name="yrIcelandic-runic" sortName="runes073" category="Letter" script="runic" production="uni16E8" description="RUNIC LETTER ICELANDIC-YR" />
+	<glyph unicode="16E9" name="q-runic" sortName="runes074" category="Letter" script="runic" production="uni16E9" description="RUNIC LETTER Q" />
+	<glyph unicode="16EA" name="x-runic" sortName="runes075" category="Letter" script="runic" production="uni16EA" description="RUNIC LETTER X" />
+	<glyph unicode="16F1" name="k-runic" sortName="runes076" category="" script="runic" production="uni16F1" description="RUNIC LETTER K" />
+	<glyph unicode="16F2" name="sh-runic" sortName="runes077" category="" script="runic" production="uni16F2" description="RUNIC LETTER SH" />
+	<glyph unicode="16F3" name="oo-runic" sortName="runes078" category="" script="runic" production="uni16F3" description="RUNIC LETTER OO" />
+	<glyph unicode="16F4" name="osFranksCasket-runic" sortName="runes079" category="Letter" script="runic" production="uni16F4" description="RUNIC LETTER FRANKS CASKET OS" />
+	<glyph unicode="16F5" name="isFranksCasket-runic" sortName="runes080" category="Letter" script="runic" production="uni16F5" description="RUNIC LETTER FRANKS CASKET IS" />
+	<glyph unicode="16F6" name="ehFranksCasket-runic" sortName="runes081" category="Letter" script="runic" production="uni16F6" description="RUNIC LETTER FRANKS CASKET EH" />
+	<glyph unicode="16F7" name="acFranksCasket-runic" sortName="runes082" category="Letter" script="runic" production="uni16F7" description="RUNIC LETTER FRANKS CASKET AC" />
+	<glyph unicode="16F8" name="aescFranksCasket-runic" sortName="runes083" category="Letter" script="runic" production="uni16F8" description="RUNIC LETTER FRANKS CASKET AESC" />
+	
+	<glyph unicode="16EB" name="punctSingle-runic" sortName="runes101" category="Punctuation" script="runic" production="uni16EB" description="RUNIC SINGLE PUNCTUATION" />
+	<glyph unicode="16EC" name="punctMultiple-runic" sortName="runes102" category="Punctuation" script="runic" production="uni16EC" description="RUNIC MULTIPLE PUNCTUATION" />
+	<glyph unicode="16ED" name="punctCross-runic" sortName="runes103" category="Punctuation" script="runic" production="uni16ED" description="RUNIC CROSS PUNCTUATION" />
+	
+	<glyph unicode="16EE" name="arlaug-runic" sortName="runes201" category="Symbol" script="runic" production="uni16EE" description="RUNIC ARLAUG SYMBOL" />
+	<glyph unicode="16EF" name="tvimadur-runic" sortName="runes202" category="Symbol" script="runic" production="uni16EF" description="RUNIC TVIMADUR SYMBOL" />
+	<glyph unicode="16F0" name="belgthor-runic" sortName="runes203" category="Symbol" script="runic" production="uni16F0" description="RUNIC BELGTHOR SYMBOL" />
 </glyphData>
