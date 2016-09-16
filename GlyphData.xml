@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE glyphData [
+<!ELEMENT glyphData (glyph)+>
+<!ELEMENT glyph EMPTY>
+<!ATTLIST glyph
+	unicode			CDATA		#IMPLIED
+	name			CDATA		#REQUIRED
+	sortName		CDATA		#IMPLIED
+	sortNameKeep	CDATA		#IMPLIED
+	category		CDATA		#REQUIRED
+	subCategory		CDATA		#IMPLIED
+	script			CDATA		#IMPLIED
+	description		CDATA		#REQUIRED
+	production		CDATA		#IMPLIED
+	altNames		CDATA		#IMPLIED
+	decompose		CDATA		#IMPLIED
+	anchors			CDATA		#IMPLIED
+	accents			CDATA		#IMPLIED>
+]>
+<glyphData>
+
+<!-- Runic -->
+	<glyph unicode="16A0" name="fehu-runic" sortName="runes001" category="Letter" script="runic" production="uni16A0" description="RUNIC LETTER FEHU" />
+	<glyph unicode="16A1" name="v-runic" sortName="runes002" category="Letter" script="runic" production="uni16A1" description="RUNIC LETTER V" />
+	<glyph unicode="16A2" name="uruz-runic" sortName="runes003" category="Letter" script="runic" production="uni16A2" description="RUNIC LETTER URUZ" />
+
+	<glyph unicode="16EB" name="punctSingle-runic" sortName="runes101" category="Punctuation" script="runic" production="uni16EB" description="RUNIC LETTER PUNCTSINGLE" />
+	<glyph unicode="16EC" name="punctMultiple-runic" sortName="runes102" category="Punctuation" script="runic" production="uni16EC" description="RUNIC LETTER PUNCTMULTIPLE" />
+
+	<glyph unicode="16EE" name="arlaug-runic" sortName="runes201" category="Symbols" script="runic" production="uni16EE" description="RUNIC LETTER ARLAUG" />
+	<glyph unicode="16EF" name="tvimadur-runic" sortName="runes202" category="Symbols" script="runic" production="uni16EF" description="RUNIC LETTER TVIMADUR" />
+
+</glyphData>

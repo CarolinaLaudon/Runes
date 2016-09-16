@@ -1,0 +1,34 @@
+{
+	languages = (
+		{
+			name = "Runes";
+			icon = RunesTemplate;
+			script = runic;
+			subGroup = (
+				{
+					name = "Letters";
+					coverage = (
+						fehu-runic,
+						v-runic,
+						uruz-runic
+					);
+				},
+				{
+					name = "Punctuation";
+					coverage = (
+						punctSingle-runic,
+						punctMultiple-runic
+					);
+				},
+				{
+					name = "Symbols";
+					coverage = (
+						arlaug-runic,
+						tvimadur-runic
+					);
+				}
+			);
+		},
+	);
+}
+
