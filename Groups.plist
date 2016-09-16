@@ -10,7 +10,8 @@
 					coverage = (
 						fehu-runic,
 						v-runic,
-						uruz-runic
+						uruz-runic,
+						yr-runic
 					);
 				},
 				{
