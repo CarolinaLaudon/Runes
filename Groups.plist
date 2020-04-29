@@ -3,11 +3,11 @@
 		{
 			name = "Runes";
 			icon = RunesTemplate;
-			script = runic;
+			predicate = "script == \"runic\"";
 			subGroup = (
 				{
 					name = "Letters";
-					coverage = (
+					list = (
 						fehu-runic,
 						v-runic,
 						uruz-runic,
@@ -95,7 +95,7 @@
 				},
 				{
 					name = "Punctuation";
-					coverage = (
+					list = (
 						punctSingle-runic,
 						punctMultiple-runic,
 						punctCross-runic
@@ -103,7 +103,7 @@
 				},
 				{
 					name = "Symbols";
-					coverage = (
+					list = (
 						arlaug-runic,
 						tvimadur-runic,
 						belgthor-runic
